@@ -85,4 +85,5 @@ def grafico(productos):
     plt.grid(True)
     plt.show()
 
+# LLamo a la funcion grafico y le paso por parametro el array de objetos
 grafico(productos)
